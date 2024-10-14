@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name :Poovarasu V
+Roll no:2305002017 
+Date of experiment :27/08/2024
 
 
 
